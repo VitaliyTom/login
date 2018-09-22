@@ -105,7 +105,7 @@
         <div id="blink6"><h1>{ ${m} }</h1></div>
         <div ><h1>  ${login}   </h1></div>
 
-        <div id="blink7"><a href="/default.html">[ Back ]</a></div>
+        <div id="blink7"><a href="/index.jsp">[ Back ]</a></div>
 
     </form>
 </center>
